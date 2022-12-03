@@ -1,0 +1,12 @@
+Package: ElzeExtractor
+Title: Import VF from HFA XML
+Version: 0.0.1
+Authors@R: 
+    person("Chris", "Andrews", , "chrisaa@umich.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-5130-6374"))
+Description: Extracts HVF data from XML file and stores in CSV. Detects protocol.
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.2
+Imports: XML
